@@ -1,0 +1,45 @@
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$ pwd
+/c/Users/GC
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$ ls
+'3D Objects'/         Links/                                                                                         NetHood@          SendTo@                  myenv/
+ AppData/            'Local Settings'@                                                                               OneDrive/         Sloution-Copy1.ipynb     ntuser.dat.L
+'Application Data'@   Microsoft/                                                                                     Pictures/         Sloution.ipynb           ntuser.dat.L
+ Contacts/            Music/                                                                                         Postman/         'Start Menu'@             ntuser.ini
+ Cookies@            'My Documents'@                                                                                 PrintHood@        Templates@               pgvector/
+ Desktop/             NTUSER.DAT                                                                                     Python_Jobs.csv   Tracing/                 postgresql_1
+ Documents/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        Recent@           Videos/                  seaborn-data
+ Downloads/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms  'Saved Games'/     customer_purchases.csv   source/
+ Favorites/           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Searches/         logs_file.txt            to_be_monito
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$ git config --global user.name "sanidhyj369"
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$ git config --global user.email "jainsanidhya2002@gmail.com"
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=sanidhyj369
+user.email=jainsanidhya2002@gmail.com
+
+GC@DESKTOP-NCCJBOC MINGW64 ~
+$
+
